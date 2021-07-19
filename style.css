@@ -22,7 +22,7 @@ footer{
    text-align: center;
    font-size: 12px;
    font-family: sans-serif;
-  
+
 }
 .round1{
   height: 250px;
@@ -53,8 +53,7 @@ footer{
 }
 .round2 p{text-align:center;}
 .round2 h2{
-  text-align:left;
-color:red;}
+  text-align:left;}
 .round3{
   height: 190px;
   position: relative;
